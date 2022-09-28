@@ -83,7 +83,7 @@ const Contact = () => {
                 </div>
                 <div className='map-wrap'>
                     <iframe 
-                    src="https://www.google.com/maps/embed/v1/place?q=place_id:EkPEkC4gTMOqIMSQ4bupYyBUaOG7jSwgTeG7uSDEkMOsbmggMiwgVOG7qyBMacOqbSwgSMOgIE7hu5lpLCBWaWV0bmFtIi4qLAoUChIJXXcq7bpUNDERS2cGkNDTq0cSFAoSCTvnxbi6VDQxEcRmuqaNMPMV&key=AIzaSyBImOV1YylZoEqLFuebf2oV_s1jeL6kSTU" 
+                    src="https://www.google.com/maps/embed/v1/place?q=place_id:EkPEkC4gTMOqIMSQ4bupYyBUaOG7jSwgTeG7uSDEkMOsbmggMiwgVOG7qyBMacOqbSwgSMOgIE7hu5lpLCBWaWV0bmFtIi4qLAoUChIJXXcq7bpUNDERS2cGkNDTq0cSFAoSCTvnxbi6VDQxEcRmuqaNMPMV&key={API-KEY}" 
                     width="100%" height='100%' frameBorder='0' style={{border: 0}} allowFullScreen="" aria-hidden="false" tabIndex="0" title='Google Map'
                     ></iframe>
                 </div>
